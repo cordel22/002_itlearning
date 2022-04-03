@@ -1,0 +1,3 @@
+Fotka plaze;01.jpg
+Druha fotka;02.jpg
+tretia;03.jpg
